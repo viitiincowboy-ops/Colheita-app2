@@ -1,4 +1,4 @@
-const CACHE = "jhs-colheita-v1";
+const CACHE = "jhs-colheita-v2";
 
 const PRECACHE = [
   "/",
